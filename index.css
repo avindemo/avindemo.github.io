@@ -1,0 +1,47 @@
+a {
+	color: white;
+}
+
+#vani {
+  background-color: #000116;
+}
+
+h1 {
+	font-size: 30px;
+	padding: 20px;
+}
+
+html, body {
+	background: #778899;
+	color: white;
+	font-family: serif;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.social {
+	border-radius: 50%;
+	padding: 7px;
+	width: 42px;
+}
+
+.container {
+	height: 100%;
+	display: inline-flex;
+}
+
+.center { 
+	margin: auto 5px;
+}
+
+.footer {
+	padding-top: 30px;
+}
+
+#profile-pic {
+	border-radius: 50%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
